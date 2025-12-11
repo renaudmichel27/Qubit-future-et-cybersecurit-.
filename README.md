@@ -1,9 +1,6 @@
 # Qubit-future-et-cybersecurit-.
 veille techno
 
-
-https://www.nist.gov/cybersecurity/what-post-quantum-cryptography
-
 https://www.nist.gov/cybersecurity/what-post-quantum-cryptography
 
 https://www.c12qe.com/
