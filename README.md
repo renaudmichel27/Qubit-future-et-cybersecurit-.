@@ -11,3 +11,5 @@ https://quantumai.google/
 https://arxiv.org/html/2410.00916v1
 
 https://www.inp.cnrs.fr/fr/cnrsinfo/un-protocole-de-cryptographie-quantique-integrant-une-memoire-quantique
+
+https://www.ssh.com/solutions/quantum-safe-cryptography-qsc-security-solutions?hsCtaAttrib=186028217683
